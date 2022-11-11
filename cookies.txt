@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.longdom.org	TRUE	/	FALSE	1999999999	PHPSESSID	e6g75l5epjrc4u8036io9qrcji
+
